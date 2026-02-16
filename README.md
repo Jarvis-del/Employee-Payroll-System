@@ -40,7 +40,6 @@ This project demonstrates the following Object-Oriented Programming principles:
 ## 📂 Project Structure
 EmployeePayrollSystem/
 │
-├── src/ # Java source files
 │ ├── Main.java
 │ ├── Employee.java
 │ ├── FullTime.java
